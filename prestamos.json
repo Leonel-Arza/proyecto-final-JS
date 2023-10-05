@@ -1,0 +1,20 @@
+[
+    {
+        "monto": 250000,
+        "tasaInteresAnual": 8,
+        "plazoMeses": 12,
+        "cuotaMensual": 21133.69
+    },
+    {
+        "monto": 550000,
+        "tasaInteresAnual": 6.5,
+        "plazoMeses": 24,
+        "cuotaMensual": 25166.41
+    },
+    {
+        "monto": 150000,
+        "tasaInteresAnual": 7.2,
+        "plazoMeses": 36,
+        "cuotaMensual": 4677.05
+    }
+]

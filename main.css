@@ -1,0 +1,59 @@
+body {
+    background-image: url(./images/fondo1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 7rem;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 30px;
+    margin-top: 50px;
+    border-radius: 30px;
+    padding: .3rem;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+button:hover {
+    background-color: red;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+.form label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.form input {
+    border-radius: 1rem;
+}
+
+#output {
+    font-size: large;
+    align-content: center;
+    margin-top: 3rem;
+}
+
+.prestamo-info {
+    padding: 20px;
+}
